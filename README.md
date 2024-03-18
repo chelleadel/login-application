@@ -8,6 +8,7 @@ This login application is designed with scalability and security in mind. The ba
 - **Frontend**: [https://github.com/chelleadel/login-application](https://github.com/chelleadel/login-application)
 
 Clone both repository to local device.
+
 ## Backend: Spring Boot
 
 The Spring Boot backend is a robust platform that includes features like JWT authentication. It interacts with a database comprising two main tables: `users` and `roles`, ensuring the application is ready for future expansion.
@@ -28,7 +29,9 @@ The backend provides several API endpoints grouped under:
 To start the server:
 
 1. Open your preferred Java IDE (e.g., IntelliJ IDEA).
-2. Run the project to launch the backend server.
+2. Add PostgreSQL credentials to `src/main/resources/application.properties`
+3. Run the project to launch the backend server.
+   If you are running using IntelliJ IDEA, go to `src/main/java/com/app/loginapp/LoginApplication.java`, right click the file and find the run option
 
 ## Frontend: Next.js 13
 
