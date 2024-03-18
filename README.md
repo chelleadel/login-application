@@ -7,6 +7,7 @@ This login application is designed with scalability and security in mind. The ba
 - **Backend**: [https://github.com/chelleadel/loginapp](https://github.com/chelleadel/loginapp)
 - **Frontend**: [https://github.com/chelleadel/login-application](https://github.com/chelleadel/login-application)
 
+Clone both repository to local device.
 ## Backend: Spring Boot
 
 The Spring Boot backend is a robust platform that includes features like JWT authentication. It interacts with a database comprising two main tables: `users` and `roles`, ensuring the application is ready for future expansion.
