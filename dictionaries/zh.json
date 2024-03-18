@@ -1,0 +1,22 @@
+{
+  "welcome": "欢迎回来",
+  "your_username": "您的用户名是",
+  "your_role": "您的角色是",
+  "public_content": "只有登录用户才能访问此页面",
+  "user_dashboard": "用户仪表板",
+  "manager_dashboard": "管理员仪表板",
+  "list_of_roles": "角色列表：",
+  "list_of_usernames": "用户名列表：",
+  "sign_in": "登录",
+  "go": "去",
+  "login_error": "用户名或密码无效。请再试一次",
+  "login_validation": "用户名和密码字段为空",
+  "errorpage_header": "访问被拒绝",
+  "errorpage_body": "您没有权限查看此页面。",
+  "my_application": "我的应用程序",
+  "home": "主页",
+  "user": "用户",
+  "manager": "管理员",
+  "language": "语言",
+  "logout": "登出"
+}

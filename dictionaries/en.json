@@ -1,0 +1,22 @@
+{
+  "welcome": "Welcome back",
+  "your_username": "Your username is",
+  "your_role": "Your role is",
+  "public_content": "Only login user can access this page",
+  "user_dashboard": "User Dashboard",
+  "manager_dashboard": "Manager Dashboard",
+  "list_of_roles": "List of Roles:",
+  "list_of_usernames": "List of Usernames:",
+  "sign_in": "Sign In",
+  "go": "Go",
+  "login_error": "Invalid username and password. Try again",
+  "login_validation": "Username and Password field is empty",
+  "errorpage_header": "Access Denied",
+  "errorpage_body": "You do not have permission to view this page.",
+  "my_application": "My Application",
+  "home": "Home",
+  "user": "User",
+  "manager": "Manager",
+  "language": "Language",
+  "logout": "Logout"
+}
